@@ -7,4 +7,4 @@ openai==1.84.0
 gradio==4.27.0
 PyPDF2==3.0.1
 python-dotenv==1.0.1
-streamlit==1.33.0
+streamlit==1.45.1
