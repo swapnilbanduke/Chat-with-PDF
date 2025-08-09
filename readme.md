@@ -29,7 +29,7 @@ Ask questions about any text-based PDF and get answers **grounded in its content
 * ✅ **NumPy + scikit-learn** for similarity search
 * ✅ **OpenAI GPT-3.5-turbo** (or compatible) for response generation
 
-![Chat UI Screenshot](chat.png)
+![Chat UI Screenshot](chatpdf.png)
 
 ---
 
